@@ -4,4 +4,4 @@ def count_lines(file_path):
             return sum(1 for _ in file)
         
     except FileNotFoundError:
-        return _1    
+        return -1    
