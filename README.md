@@ -19,6 +19,17 @@ I completed these exercises to strengthen my Python programming skills, improve 
 * Problem Solving
 * Basic Algorithms
 
+## Skills Developed
+
+Through these exercises, I practiced:
+
+- Python Programming
+- Problem Solving
+- Logical Thinking
+- Algorithmic Thinking
+- Code Organization
+
+  
 ## Course Information
 
 **Course:** 100+ Python Coding Practice Test [Questions & Answers] 2026
@@ -34,3 +45,7 @@ This repository is maintained as a personal learning record and practice archive
 ## Disclaimer
 
 These solutions were created for educational and learning purposes only. Course content belongs to the respective instructor and platform.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
