@@ -38,6 +38,8 @@ Through these exercises, I practiced:
 
 **Platform:** Udemy
 
+**Course Link:** https://www.udemy.com/course/python-interview-questions-answers-coding/?src=sac&kw=100%2B+Python+Coding+Practice+Test
+
 ## Purpose
 
 This repository is maintained as a personal learning record and practice archive.
